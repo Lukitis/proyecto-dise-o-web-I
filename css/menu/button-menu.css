@@ -1,0 +1,8 @@
+.button-menu{
+    background-color: #ffffff;
+    border-radius: 18px;
+    padding: 0.9rem;
+    color: #200E32;
+    justify-content: center;
+    cursor: pointer;
+}

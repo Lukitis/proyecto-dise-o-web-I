@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    background-color: #200E32;
+    justify-content: space-around;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
